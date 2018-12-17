@@ -18,5 +18,5 @@ else if (velgMatte == "/") {
     console.log (parseInt(firstNumber) / parseInt(secondNumber))
 }
 else {
-    console.log ("Er du full eller?")
+    console.log ("Prøv på nytt")
 };
